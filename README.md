@@ -1,2 +1,5 @@
 # Arduino_Notes
-Notes of electronic components for Arduino, ESP32, etc.
+This is a repository
+that explains how to
+use some electronic 
+components
